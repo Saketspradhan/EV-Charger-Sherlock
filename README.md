@@ -1,5 +1,5 @@
 # EV-charger-Sherlock
-HackMIT 2021 Project
+**HackMIT 2021 Project**
 
 ![1](https://user-images.githubusercontent.com/25654606/133933981-5d30c1c0-3a5c-407f-b2f2-89d02e536c56.png)
 
