@@ -12,6 +12,10 @@
   
 ![screencapture-127-0-0-1-5500-chart-html-2021-09-19-21_19_00](https://user-images.githubusercontent.com/25654606/133933969-c457d449-5d48-4b41-9378-72e53e7ed569.png)
 
+# Worflow Diagram
+
+![2](https://raw.githubusercontent.com/Saketspradhan/EV-Charger-Sherlock/main/images/working.jpeg)
+
 
 # Team Members
 <h4>• Raj Shah</h4>
